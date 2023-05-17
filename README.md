@@ -10,4 +10,4 @@
     
 # Ссылка на опубликованный сайт
 
-    https://dramatic-three.vercel.app/
+    https://movie-ochre-six.vercel.app/
