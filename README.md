@@ -1,11 +1,14 @@
-DRAMATIC - Web Application for Movie and TV Show Recommendations based on Popularity and User Preferences
+# Имя кандидата
 
-By Yersultan Sansyzbay
+    Сансызбай Ерсултан
 
-Key Features:
-1. Search for movies and TV shows by keywords, genres, or actors.
-2. Display information about a movie or TV show (title, poster, description, rating, cast, etc.).
-3. Ability to watch movie trailers.
-4. Recommendations for viewing.
-5. Display similar movies.
-6. All movies are displayed in a slider and can be browsed through.
+# Список реализованных функций из задания
+
+    1) Поиск фильмов и сериалов по ключевым словам, жанрам или актерам.
+    2) Отображение информации о фильме или сериале (название, постер, описание, актерский состав и т. д.).
+    3) Возможность просмотра трейлеров фильмов и сериалов.
+    
+# Ссылка на опубликованный сайт
+
+    https://dramatic-three.vercel.app/
+
